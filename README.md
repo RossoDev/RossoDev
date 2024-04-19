@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 
-### :writing_hand: ongta6.com Posts :
+### :writing_hand: ongta6.com latest posts :
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->

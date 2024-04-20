@@ -26,7 +26,7 @@ jobs:
         with:
           max_post_count: 4
           feed_list: "https://freegamesgg.com/feed"
-          comment_tag_name: "BLOG-POST-LIST2:START" # Unique tag for the second blog list
+          comment_tag_name: "BLOG-POST-LIST2:START"
           commit_message: "Updated README with the latest Free Games GG blog posts"
 
       - name: Commit and Push Changes

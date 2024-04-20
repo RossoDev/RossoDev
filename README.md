@@ -11,7 +11,6 @@
 
 [![Linktree](https://img.shields.io/badge/Visit-Projects-brightgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/favdev)
 
-## Feed
 ### :writing_hand: ongta6.com latest post:
 
 <!-- BLOG-POST-LIST:START -->

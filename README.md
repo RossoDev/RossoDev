@@ -12,7 +12,7 @@
 [![Linktree](https://img.shields.io/badge/Visit-Projects-brightgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/favdev)
 
 ## Feed
-### :writing_hand: ongta6.com latest post :
+### :writing_hand: ongta6.com latest post:
 
 <!-- BLOG-POST-LIST:START -->
 - [GTA 6 Future: Theft, Heists, Drugs, and Gangs](https://ongta6.com/news/gta-6-future-theft-heists-drugs-and-gangs/)
@@ -20,6 +20,11 @@
 - [GTA 6 How Many Hours Developer Reveals](https://ongta6.com/news/gta-6-how-many-hours-developer-reveals/)
 - [GTA 6 Jason: Voice Behind Insights and Speculations](https://ongta6.com/news/gta-6-jason-voice-behind-insights-and-speculations/)
 <!-- BLOG-POST-LIST:END -->
+
+### :video_game: freegamesgg.com latest games:
+
+<!-- BLOG-POST-LIST2:START -->
+<!-- BLOG-POST-LIST2:END -->
 
 <!--
 **RossoDev/RossoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

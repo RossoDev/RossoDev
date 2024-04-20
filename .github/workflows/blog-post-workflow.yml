@@ -10,11 +10,25 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Fetch Posts from OnGTA 6
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 4
           feed_list: "https://ongta6.com/feed/"
+          comment_tag_name: "BLOG-POST-LIST:START"
+          commit_message: "Updated README with the latest OnGTA 6 blog posts"
+      
+      - name: Fetch Posts from Free Games GG
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 4
+          feed_list: "https://freegamesgg.com/feed"
+          comment_tag_name: "BLOG-POST-LIST2:START" # Unique tag for the second blog list
+          commit_message: "Updated README with the latest Free Games GG blog posts"
+
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"

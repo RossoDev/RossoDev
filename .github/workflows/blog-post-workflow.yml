@@ -18,7 +18,7 @@ jobs:
         with:
           max_post_count: 4
           feed_list: "https://ongta6.com/feed/"
-          comment_tag_name: "BLOG-POST-LIST:START"
+          comment_tag_name: "BLOG-POST-LIST"
           commit_message: "Updated README with the latest OnGTA 6 blog posts"
       
       - name: Fetch Posts from Free Games GG
@@ -26,7 +26,7 @@ jobs:
         with:
           max_post_count: 4
           feed_list: "https://freegamesgg.com/feed"
-          comment_tag_name: "BLOG-POST-LIST2:START"
+          comment_tag_name: "BLOG-POST-LIST2"
           commit_message: "Updated README with the latest Free Games GG blog posts"
 
       - name: Commit and Push Changes

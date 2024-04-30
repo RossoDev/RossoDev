@@ -7,7 +7,9 @@
 ![rossodev's Stats](https://github-readme-stats.vercel.app/api?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![rossodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-### :writing_hand: ongta6.com latest post:
+## Latest Post
+
+### :writing_hand: ongta6.com:
 
 <!-- BLOG-POST-LIST:START -->
 - [GTA 6 Future: Theft, Heists, Drugs, and Gangs](https://ongta6.com/news/gta-6-future-theft-heists-drugs-and-gangs/)
@@ -16,7 +18,7 @@
 - [GTA 6 Jason: Voice Behind Insights and Speculations](https://ongta6.com/news/gta-6-jason-voice-behind-insights-and-speculations/)
 <!-- BLOG-POST-LIST:END -->
 
-### :video_game: freegamesgg.com latest games:
+### :video_game: freegamesgg.com:
 
 <!-- BLOG-POST-LIST2:START -->
 - [Count Master Clash](https://freegamesgg.com/arcade/count-master-clash/)

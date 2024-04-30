@@ -9,7 +9,7 @@
 
 ## Working on 🔧
 
-[![Linktree](https://img.shields.io/badge/Visit-Projects-brightgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/favdev)
+[![Linktree](https://img.shields.io/badge/Visit-Projects-brightgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://konect.gg/roh)
 
 ### :writing_hand: ongta6.com latest post:
 

@@ -7,10 +7,6 @@
 ![rossodev's Stats](https://github-readme-stats.vercel.app/api?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![rossodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## Working on 🔧
-
-[![Linktree](https://img.shields.io/badge/Visit-Projects-brightgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://konect.gg/roh)
-
 ### :writing_hand: ongta6.com latest post:
 
 <!-- BLOG-POST-LIST:START -->

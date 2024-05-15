@@ -23,7 +23,6 @@
 - [Count Master Clash](https://freegamesgg.com/arcade/count-master-clash/)
 - [Tank Sniper: 3D Shooting](https://freegamesgg.com/shooting/tank-sniper-3d-shooting/)
 - [Stretch Legs: Jump King 3D](https://freegamesgg.com/arcade/stretch-legs-jump-king-3d/)
-- [I Want Pancake](https://freegamesgg.com/arcade/i-want-pancake/)
 <!-- BLOG-POST-LIST2:END -->
 
 ### ⛏️ multiversecraft.com:

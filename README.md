@@ -15,7 +15,6 @@
 - [GTA 6 UK Market Prospects in 2025](https://ongta6.com/news/gta-6-uk-market-prospects-in-2025/)
 - [GTA 6 Future: Theft, Heists, Drugs, and Gangs](https://ongta6.com/news/gta-6-future-theft-heists-drugs-and-gangs/)
 - [Take-Two Interactive to Cut 5% of Workforce in Cost-Saving Move](https://ongta6.com/news/take-two-interactive-to-cut-5-of-workforce-in-cost-saving-move/)
-- [GTA 6 How Many Hours Developer Reveals](https://ongta6.com/news/gta-6-how-many-hours-developer-reveals/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :video_game: freegamesgg.com:

@@ -28,6 +28,8 @@
 ### ⛏️ multiversecraft.com:
 
 <!-- BLOG-POST-LIST3:START -->
+- [How to Join a Minecraft Server on PS4](https://multiversecraft.com/tutorial/how-to-join-a-minecraft-server-on-ps4/)
+- [How to Join a Minecraft Server](https://multiversecraft.com/tutorial/how-to-join-a-minecraft-server/)
 <!-- BLOG-POST-LIST3:END -->
 
 <!--

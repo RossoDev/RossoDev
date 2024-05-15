@@ -16,7 +16,7 @@ jobs:
       - name: Fetch Posts from OnGTA 6
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 4
+          max_post_count: 3
           feed_list: "https://ongta6.com/feed/"
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "Updated README with the latest OnGTA 6 blog posts"
@@ -24,10 +24,18 @@ jobs:
       - name: Fetch Posts from Free Games GG
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: 4
+          max_post_count: 3
           feed_list: "https://freegamesgg.com/feed"
           comment_tag_name: "BLOG-POST-LIST2"
           commit_message: "Updated README with the latest Free Games GG blog posts"
+
+      - name: Fetch Posts from MultiverseCraft
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: 3
+          feed_list: "https://multiversecraft.com/feed"
+          comment_tag_name: "BLOG-POST-LIST3"
+          commit_message: "Updated README with the latest MultiverseCraft blog posts"
 
       - name: Commit and Push Changes
         run: |

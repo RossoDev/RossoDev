@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=rossodev&style=flat-square&color=blue" alt=""/>
 
-## About me
+## Stats
 
 ![rossodev's Stats](https://github-readme-stats.vercel.app/api?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![rossodev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rossodev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)

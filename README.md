@@ -1,6 +1,6 @@
 ## Coding, for fun. 
 
-<img src="https://komarev.com/ghpvc/?username=rossodev&style=flat-square&color=blue" alt=""/> [![wakatime](https://wakatime.com/badge/user/018ef8a5-e8a1-425e-bd98-5d0a95fc13fa.svg)](https://wakatime.com/@018ef8a5-e8a1-425e-bd98-5d0a95fc13fa)
+<img src="https://komarev.com/ghpvc/?username=rossodev&style=flat-square&color=blue" alt=""/>
 
 ## About me
 

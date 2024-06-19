@@ -12,9 +12,9 @@
 ### :writing_hand: ongta6.com:
 
 <!-- BLOG-POST-LIST:START -->
+- [GTA 6 Cars Are Now Closer to Real-Life Counterparts Than Ever](https://ongta6.com/news/gta-6-cars-are-now-closer-to-real-life-counterparts-than-ever/)
 - [GTA 6 UK Market Prospects in 2025](https://ongta6.com/news/gta-6-uk-market-prospects-in-2025/)
 - [GTA 6 Future: Theft, Heists, Drugs, and Gangs](https://ongta6.com/news/gta-6-future-theft-heists-drugs-and-gangs/)
-- [Take-Two Interactive to Cut 5% of Workforce in Cost-Saving Move](https://ongta6.com/news/take-two-interactive-to-cut-5-of-workforce-in-cost-saving-move/)
 <!-- BLOG-POST-LIST:END -->
 
 ### :video_game: freegamesgg.com:

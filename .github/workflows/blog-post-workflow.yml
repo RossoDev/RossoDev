@@ -29,14 +29,6 @@ jobs:
           comment_tag_name: "BLOG-POST-LIST2"
           commit_message: "Updated README with the latest Free Games GG blog posts"
 
-      - name: Fetch Posts from MultiverseCraft
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: 3
-          feed_list: "https://multiversecraft.com/feed"
-          comment_tag_name: "BLOG-POST-LIST3"
-          commit_message: "Updated README with the latest MultiverseCraft blog posts"
-
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
